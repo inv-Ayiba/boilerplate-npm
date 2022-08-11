@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Tari Coconut",
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -8,7 +10,6 @@
 		"start": "node server.js"
 	},
 	"repository": {
-	    "author": "Tari Coconut Ogounga",
 		"type": "git",
 		"url": "https://github.com/inv-Ayiba/boilerplate-npm"
 	}
